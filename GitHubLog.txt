@@ -1,0 +1,15 @@
+2014-04-16 10:25:33.3368|WARN|thread:1|POCOObservableForProperty|GitHub.Models.ChangeLog is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-04-16 09:15:43.0831|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2014-04-16 09:15:43.0861|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2014-04-16 09:15:43.0861|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2014-04-16 09:15:43.8101|WARN|thread:1|POCOObservableForProperty|GitHub.Views.TwoFactorView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-04-16 09:15:43.8281|WARN|thread:1|POCOObservableForProperty|GitHub.Views.UndoFlashView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-04-16 09:15:43.8601|WARN|thread:1|POCOObservableForProperty|GitHub.Views.ShellView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-04-16 09:15:44.0792|WARN|thread:1|POCOObservableForProperty|GitHub.Views.Controls.OptionsMenu is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-04-16 09:15:45.0242|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2014-04-16 09:15:45.0242|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2014-04-16 09:15:45.0242|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2014-04-16 10:25:01.8600|WARN|thread:1|POCOObservableForProperty|GitHub.Views.OptionsView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-04-16 10:25:01.9430|WARN|thread:1|POCOObservableForProperty|GitHub.Views.Controls.Logout is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-04-16 10:25:33.2528|WARN|thread:1|POCOObservableForProperty|GitHub.Views.Controls.LicenseBrowser is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2014-04-16 10:25:33.3038|WARN|thread:1|POCOObservableForProperty|GitHub.Views.AboutView is a POCO type and won't send change notifications, WhenAny will only return a single value!
